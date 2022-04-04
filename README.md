@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shantanu88-code
-- 👀 I’m interested in ...learning new skills
-- 🌱 I’m currently learning ...data analytics and programming languages
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in a career in Database Administration 
+- 🌱 I’m currently learning ...data analytics and programming
+- 💞️ I’m looking to collaborate on database projects.
 - 📫 How to reach me ...vaidshan88@gmail.com
 
 <!---
